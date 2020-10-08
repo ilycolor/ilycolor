@@ -7,16 +7,12 @@
   - Discord: <b>Colorbomb#0001</b><br>
 </details>
 
-<br>
-
 <details>
   <summary>GitHub Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=colorbombdev&show_icons=true"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colorbombdev"/>
 </details>
-
-<br>
 
 <details>
   <summary>Languages I Use</summary>
