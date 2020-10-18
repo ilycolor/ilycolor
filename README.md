@@ -2,7 +2,7 @@
   <summary>About Me</summary>
   <br>
   I'm <b>Colorbomb</b><br>
-  - I'm a <b>full stack developer</b><br>
+  - I'm a <b>developer</b><br>
   - I'm currently working on a <b>minecraft name sniper</b><br>
   - Discord: <b>Colorbomb#0001</b><br>
 </details>
