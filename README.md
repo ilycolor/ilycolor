@@ -3,7 +3,6 @@
   <br>
   I'm <b>Colorbomb</b><br>
   - I'm a <b>developer</b><br>
-  - I'm currently working on a <b>discord bot</b><br>
   - Discord: <b>Colorbomb#0001</b><br>
 </details>
 
