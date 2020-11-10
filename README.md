@@ -6,8 +6,6 @@
   - My discord is <b>Colorbomb#0001</b><br>
 </details>
 
-<input>test</input>
-
 <details>
   <summary>GitHub Stats</summary>
   <br>
