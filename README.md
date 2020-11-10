@@ -3,8 +3,10 @@
   <br>
   I'm <b>Colorbomb</b><br>
   - I'm a <b>developer</b><br>
-  - Discord: <b>Colorbomb#0001</b><br>
+  - My discord is <b>Colorbomb#0001</b><br>
 </details>
+
+<input>test</input>
 
 <details>
   <summary>GitHub Stats</summary>
