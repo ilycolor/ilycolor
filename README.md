@@ -23,7 +23,7 @@
   - <a href="https://dart.dev/">Dart</a><br>
   - HTML<br>
   - <a href="https://www.java.com/en/">Java</a><br>
-  - Javascript<br>
+  - <a href="https://www.javascript.com/">Javascript</a><br>
   - <a href="https://nodejs.org/">NodeJS</a><br>
   - <a href="https://www.php.net/">PHP</a><br>
   - <a href="https://www.python.org/">Python</a><br>
