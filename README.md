@@ -6,12 +6,7 @@
   - My discord is <b>Colorbomb#0001</b><br>
 </details>
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=colorbombdev&show_icons=true"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colorbombdev"/>
-</details>
+![Metrics](https://metrics.lecoq.io/ColorbombDev?template=classic&languages=1&config.timezone=America%2FChicago)
 
 <details>
   <summary>Languages I Use</summary>
