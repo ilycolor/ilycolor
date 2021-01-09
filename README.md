@@ -2,7 +2,6 @@
 
 <details open>
   <summary>About Me</summary>
-  <br>
   I'm <b>Colorbomb</b><br>
   - I'm a <b>developer</b><br>
   - My discord is <b>Colorbomb#0001</b><br>
@@ -10,7 +9,6 @@
 
 <details>
   <summary>Languages I Use</summary>
-  <br>
   I use a lot of different languages, but the main ones would be:<br>
   - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
   - <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a><br>
