@@ -2,7 +2,6 @@
 
 <details>
   <summary>Languages I Use</summary>
-  I use a lot of different languages, but the main ones would be:<br>
   - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
   - <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a><br>
   - <a href="https://en.wikipedia.org/wiki/CSS">CSS</a><br>
