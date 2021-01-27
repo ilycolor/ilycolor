@@ -1,12 +1,5 @@
 ![Metrics](https://metrics.lecoq.io/ColorbombDev?template=classic&languages=1&config.timezone=America%2FChicago)
 
-<details open>
-  <summary>About Me</summary>
-  I'm <b>Colorbomb</b><br>
-  - I'm a <b>developer</b><br>
-  - My discord is <b>Colorbomb#0001</b><br>
-</details>
-
 <details>
   <summary>Languages I Use</summary>
   I use a lot of different languages, but the main ones would be:<br>
