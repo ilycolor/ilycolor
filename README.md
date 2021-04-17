@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/ColorbombDev?template=classic&languages=1&config.timezone=America%2FChicago)
-
 <details>
   <summary>Languages I Use</summary>
   - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
