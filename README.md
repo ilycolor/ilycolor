@@ -1,7 +1,7 @@
 <details>
   <summary>Experience</summary>
-  - <b>Developer</b> for **Vulture (Minecraft Server)**, since 4/10/2021<br>
-  - <b>Developer</b> for **Mythia (Minecraft Server)**, 2 months<br>
+  - <b>Developer</b> for <b>Vulture (Minecraft Server)</b>, since 4/10/2021<br>
+  - <b>Developer</b> for <b>Mythia (Minecraft Server)</b>, 2 months<br>
 </details>
 
 <details>
