@@ -1,5 +1,7 @@
 <details>
   <summary>Experience</summary>
+  - <b>Developer</b> for <b>Envy (Hash Tool)</b>, since 5/11/2021<br>
+  - <b>Developer</b> for <b>Vendetta (Discord Utilities)</b>, since 4/13/2021<br>
   - <b>Developer</b> for <b>Vulture (Minecraft Server)</b>, since 4/10/2021<br>
   - <b>Developer</b> for <b>Mythia (Minecraft Server)</b>, 2 months<br>
 </details>
