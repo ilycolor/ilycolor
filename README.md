@@ -1,5 +1,5 @@
 <details open>
-  <summary>Experience</summary>
+  <summary>🧩 Experience</summary>
   - <b>Developer</b> for <b>Envy (Hash Tool)</b>, since 5/11/2021<br>
   - <b>Developer</b> for <b>Vendetta (Discord Utilities)</b>, since 4/13/2021<br>
   - <b>Developer</b> for <b>Vulture (Minecraft Server)</b>, since 4/10/2021<br>
@@ -7,7 +7,7 @@
 </details>
 
 <details open>
-  <summary>Languages I Use</summary>
+  <summary>📚 Languages I Use</summary>
   - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
   - <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a><br>
   - <a href="https://en.wikipedia.org/wiki/CSS">CSS</a><br>
