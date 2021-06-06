@@ -6,7 +6,7 @@
   - <b>Developer</b> for <b>Mythia (Minecraft Server)</b>, 2 months<br>
 </details>
 
-<details>
+<details open>
   <summary>Languages I Use</summary>
   - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
   - <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a><br>
