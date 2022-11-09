@@ -1,3 +1,6 @@
+Freelance Developer
+<sub>(i dont use github that much)</sub>
+
 <details open>
   <summary>📚 Languages I Use</summary>
   - <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a><br>
