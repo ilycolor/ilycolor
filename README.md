@@ -1,5 +1,4 @@
 Freelance Developer
-<sub>(i dont use github that much)</sub>
 
 <details open>
   <summary>📚 Languages I Use</summary>
